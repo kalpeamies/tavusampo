@@ -1401,22 +1401,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -10.16 20.955 0)
+			(property "Reference" "U2"
+				(at 2.1433 25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left)
 				)
 			)
 			(property "Value" "CY62256-70PC"
-				(at 2.54 20.955 0)
+				(at 2.1433 22.86 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left)
 				)
 			)
 			(property "Footprint" "Package_DIP:DIP-28_W15.24mm"
@@ -1526,7 +1526,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1544,7 +1544,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1562,7 +1562,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1580,7 +1580,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1598,7 +1598,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1616,7 +1616,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1634,7 +1634,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1670,7 +1670,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1688,7 +1688,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1706,7 +1706,7 @@
 							)
 						)
 					)
-					(number "21"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1724,7 +1724,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1742,7 +1742,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1760,7 +1760,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1778,7 +1778,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2191,7 +2191,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CY62256-70PC"
+		(property "Value" "CY62256LL-70PC"
 			(at 243.4433 58.42 0)
 			(effects
 				(font
